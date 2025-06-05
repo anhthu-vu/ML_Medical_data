@@ -9,4 +9,5 @@ In this mini project, I trained several NER models to identify 10 annotated labe
 - Phenomena (PHEN)
 - Physiology (PHYS)
 - Procedures (PROC)
+
 then performed comparisons between the models based on their test results. 
